@@ -1,6 +1,6 @@
 I always struggled with Copulas.
 
-Yet, today I held a lecture on “Application of Copulas in Finance in Python and R” at the Statistics Department at Ludwig-Maximilians-Universität München.
+Yet, on January 2024 I held a lecture on “Application of Copulas in Finance in Python and R” at the Statistics Department at Ludwig-Maximilians-Universität München.
 
 More precisely, I gauged the multivariate distribution of Apple and Exxon stock returns by a Survival Gumbel Copula and T-student Copula employing Maximum Likelihood with Inference from margins as estimation method.
 
