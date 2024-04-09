@@ -14,7 +14,8 @@ Moreover, in the application part :
 
 1)I simulated a multivariate Gaussian Copula
 
-2) I estimated a Survavival Gumbel Copula and T-student Copula with Maximum Likelihood with inference from margins method to gauge multivariate distribution of Apple and Exxon stock returns 
+2)
+I estimated a Survavival Gumbel Copula and T-student Copula with Maximum Likelihood with inference from margins method to gauge multivariate distribution of Apple and Exxon stock returns 
 
 3)I simulated from these models synthetic returns to strive to fit historical returns
 
